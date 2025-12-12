@@ -1,4 +1,8 @@
    {
-     "version": "1.0",
-     "changelog": "Anticheat-ul doar ce a aparut pe piata nu are updates :)"
+     "version": "1.1",
+     "changelog": "A fost adaugat optinea de logs in panel,
+                   Interfata la panel o fost actualizata,
+                   A fost adaugata comanda bac_autowhitelist,
+                   A fost facute niste actualizari la heartbeat,
+                   A fost adaugate notificari cand cineva este detectat sau banat"
    }
