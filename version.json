@@ -1,4 +1,4 @@
    {
-     "version": "1.3",
-     "changelog": "A fost scos sistemul de Resources Whitelist si adauga protectie pentru arme in mana fara a fi detinute in inventar"
+     "version": "1.4",
+     "changelog": "A fost rezolvat bug-ul legat de sters-ul masinilor, detectiile de spawnat masini au fost actualizate"
    }
